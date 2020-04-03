@@ -1,4 +1,15 @@
 <?php if ( ! defined( 'ABSPATH' ) || ! class_exists( 'NF_Abstracts_Action' )) exit;
+/*
+ * Plugin Name: Ninja Forms - MailChimp Multi Referral 
+ * Plugin URI: https://github.com/PixelPowerLLC/NinjaForms---Addon-MailChimp-Multi-Referral
+ * Description: Splits a Ninja Form submission with multiple referral contacts into individual MailChimp contacts
+ * Version: 3.0.0
+ * Author: Malachi Witt - Pixel Power LLC
+ * Author URI: https://pixelpowercle.com
+ * Text Domain: ninja-forms-mailchimp-multi-referral-
+ *
+ * Copyright 2020 Malachi Witt - Pixel Power LLC.
+ */
 
 /**
  * Class NF_Action_MailChimpMultiReferralAction
